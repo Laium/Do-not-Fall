@@ -26,8 +26,6 @@ This project was never about building something polished for an audience. It was
 - Main menu with game launch and quit functionality
 - Precision-based character movement with jump charge mechanics
 - Collision detection and fall logic
-- Multi-stage level design with progressively difficult platforming sequences
-- In-game death counter UI to track player attempts
 
 ---
 
